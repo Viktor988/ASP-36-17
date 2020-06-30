@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R58tTFawxn6NtjZD8jUpK3OaD24rTnjjdwQOBznGWktnS4fMViVHTqZ8SFudGTIuPCw6qprsy1TShY7WTR6lxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viktor\\Desktop\\ASP-master\\ApiNovine.Application\\ApiNovine.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.5\\microsoft.aspnetcore.http.features.3.1.5.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "C:\\Users\\Viktor\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
